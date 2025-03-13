@@ -13,7 +13,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Nmap and Wireshark                            | <a href="https://github.com/Pentaksecurity/Nmap-Wireshark">Nmap and Wireshark</a>|
-| Gaining a shell and escalation of priveleges  | SOC Automation Lab|
+| Gaining a shell and escalation of priveleges  | <a href="https://github.com/Pentaksecurity/THM-Billing-Walkthrough">THM Billing Privelage Escaltion</a>|
 
 ## Tools
 | Nmap
