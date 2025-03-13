@@ -29,8 +29,8 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 
 ## Certifications
 
-| CompTIA A+                                    | <img ssrc="https://images.credly.com/size/220x220/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"/>
-| CompTIA Network+                              | <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+| CompTIA A+                                    | 
+| CompTIA Network+                              | 
 | Google Cybersecurity Certificate              | 
 | Google IT Support Certificate                 | 
 | ITIL Foundations                              | 
