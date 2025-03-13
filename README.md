@@ -13,7 +13,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Nmap and Wireshark                            | <a href="">Detection Lab</a>|
-| Gaining a shell and Escalation of Priveleges  | SOC Automation Lab|
+| Gaining a shell and escalation of priveleges  | SOC Automation Lab|
 
 ## Tools
 | Nmap
