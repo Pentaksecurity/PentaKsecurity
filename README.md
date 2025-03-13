@@ -12,7 +12,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nmap and Wireshark                            | <a href="">Detection Lab</a>|
+| Nmap and Wireshark                            | <a href="https://github.com/Pentaksecurity/Nmap-Wireshark">Nmap and Wireshark</a>|
 | Gaining a shell and escalation of priveleges  | SOC Automation Lab|
 
 ## Tools
