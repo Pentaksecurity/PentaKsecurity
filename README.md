@@ -14,7 +14,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 |-----------------------------------------------|----------------------------|
 | Nmap and Wireshark                            | <a href="https://github.com/Pentaksecurity/Nmap-Wireshark">Nmap and Wireshark</a>|
 | Gaining a shell and escalation of priveleges  | <a href="https://github.com/Pentaksecurity/THM-Billing-Walkthrough">THM Billing Privelage Escaltion</a>|
-| RCE/Enumeration and Privelage Escaltioon      | <a href="">THM Publisher Writeup
+| RCE/Enumeration and Privelage Escaltioon      | <a href="https://github.com/Pentaksecurity/THMPublisherWriteup/">THM Publisher Writeup
 
 ## Tools
 | Nmap
