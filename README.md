@@ -16,6 +16,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | Gaining a shell and escalation of priveleges  | <a href="https://github.com/Pentaksecurity/THM-Billing-Walkthrough">THM Billing Privelage Escaltion</a>|
 | RCE/Enumeration and Privelage Escaltioon      | <a href="https://github.com/Pentaksecurity/THMPublisherWriteup/">THM Publisher Writeup</a>|
 | Snort Defensive Security                      | <a href="https://github.com/Pentaksecurity/THM-Snort-Challenge-Task-2-">THM Snort Challenge Task 2</a>|
+| Enumeration/Steganography/Privelage Escaltions| <a href="https://github.com/Pentaksecurity/THM-U.A-High-School-WriteUp">THM U.A High School Writeup</a>|
 ## Tools
 | Nmap
 | BurpSuite
