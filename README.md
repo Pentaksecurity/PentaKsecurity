@@ -12,11 +12,12 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nmap and Wireshark                            | <a href="https://github.com/Pentaksecurity/Nmap-Wireshark">Nmap and Wireshark</a>|
+| Vulnerability Analysis with Nmap and Wireshark| <a href="https://github.com/Pentaksecurity/Nmap-Wireshark">Nmap and Wireshark</a>|
 | Gaining a shell and escalation of priveleges  | <a href="https://github.com/Pentaksecurity/THM-Billing-Walkthrough">THM Billing Privelage Escaltion</a>|
 | RCE/Enumeration and Privilege Escaltioon      | <a href="https://github.com/Pentaksecurity/THMPublisherWriteup/">THM Publisher Writeup</a>|
 | Snort Defensive Security                      | <a href="https://github.com/Pentaksecurity/THM-Snort-Challenge-Task-2-">THM Snort Challenge Task 2</a>|
 | Enumeration/Steganography/Privilege Escalations| <a href="https://github.com/Pentaksecurity/THM-U.A-High-School-WriteUp">THM U.A High School Writeup</a>|
+| Anomalous Behavior Discovery and Mitigation   | <a href="https://github.com/Pentaksecurity/Anomalous-Behavior-Discovery-and-Mitigation">Anomalous Behavior Discovery and Mitigation</a>|
 ## Tools
 | Nmap
 | BurpSuite
