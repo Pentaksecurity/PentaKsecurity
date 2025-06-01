@@ -18,6 +18,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | Snort Defensive Security                      | <a href="https://github.com/Pentaksecurity/THM-Snort-Challenge-Task-2-">THM Snort Challenge Task 2</a>|
 | Enumeration/Steganography/Privilege Escalations| <a href="https://github.com/Pentaksecurity/THM-U.A-High-School-WriteUp">THM U.A High School Writeup</a>|
 | Anomalous Behavior Discovery and Mitigation   | <a href="https://github.com/Pentaksecurity/Anomalous-Behavior-Discovery-and-Mitigation">Anomalous Behavior Discovery and Mitigation</a>|
+| Google Security Research                      | <a href="https://github.com/Pentaksecurity/Goog-Sec"> Google Security Research</a>|
 ## Tools
 | Nmap
 | BurpSuite
