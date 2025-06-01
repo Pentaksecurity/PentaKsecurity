@@ -5,7 +5,7 @@
 I am currently a student at WGU pursuing my Bachelors Degree in Cybersecurity and Information Assurance 
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion for offensive and defensive security, I am really penetration testing and defensive security, and I am an avid participant in CTF Challenges. I am now eager to break into the industry, specifically aiming to join a Red Team or a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has led me to develop a passion for offensive and defensive security, I am really passionate about Penetration Testing and Defensive Security, as well as GRC Security Advisor and Internal Auditing and I am an avid participant in CTF Challenges. I am now eager to break into the industry, specifically aiming to join a Red Team or a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
