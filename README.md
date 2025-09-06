@@ -1,3 +1,4 @@
+
 # Hello, I am Victor Khattar (PentaK)
 <a href="https://www.linkedin.com/in/khattarv/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -19,7 +20,8 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | Enumeration/Steganography/Privilege Escalations| <a href="https://github.com/Pentaksecurity/THM-U.A-High-School-WriteUp">THM U.A High School Writeup</a>|
 | Anomalous Behavior Discovery and Mitigation   | <a href="https://github.com/Pentaksecurity/Anomalous-Behavior-Discovery-and-Mitigation">Anomalous Behavior Discovery and Mitigation</a>|
 | Google Security Research                      | <a href="https://github.com/Pentaksecurity/Goog-Sec"> Google Security Research</a>|
-| SOC Home Lab with Splunk                      | <a href ="https://github.com/Pentaksecurity/SOC-Home-Lab-SPLUNK-/blob/main/README.md"> SOC Home Lab Splunk</a>|
+| IOC Detecttion & Incident Resposne(Splunk)    | <a href ="https://github.com/Pentaksecurity/SOC-Home-Lab-SPLUNK-/blob/main/README.md"> SOC Home Lab Splunk</a>|
+| Configuring IDS & Writing Rules/Managing Alerts| <a href ="https://github.com/Pentaksecurity/Suricata-Windows-HomeLab/blob/main/README.md"> Suricata IDS Windows HomeLab
 ## Tools
 | Nmap
 | BurpSuite
