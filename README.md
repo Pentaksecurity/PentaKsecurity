@@ -22,6 +22,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | Google Security Research                      | <a href="https://github.com/Pentaksecurity/Goog-Sec"> Google Security Research</a>|
 | IOC Detecttion & Incident Resposne(Splunk)    | <a href ="https://github.com/Pentaksecurity/SOC-Home-Lab-SPLUNK-/blob/main/README.md"> SOC Home Lab Splunk</a>|
 | Configuring IDS & Writing Rules/Managing Alerts| <a href ="https://github.com/Pentaksecurity/Suricata-Windows-HomeLab/blob/main/README.md"> Suricata IDS Windows HomeLab
+| AWS IAM CLI                                   | <a href ="https://github.com/Pentaksecurity/AWS-IAM-CLI-PROJECT"> AWS IAM CLI PROJECT</a>|
 ## Tools
 | Nmap
 | BurpSuite
