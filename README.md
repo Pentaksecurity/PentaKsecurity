@@ -43,6 +43,7 @@ My journey in cybersecurity has led me to develop a passion for offensive and de
 | AWS IAM Security                              |
 | Google Cybersecurity Certificate              | 
 | Google IT Support Certificate                 | 
-| ITIL Foundations                              | 
+| ITIL Foundations                              |
+| ISC2 SSCP                                     |
 
 
