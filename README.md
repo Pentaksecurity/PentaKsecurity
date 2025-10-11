@@ -22,6 +22,19 @@ Cybersecurity professional with hands-on experience in SOC operations, endpoint 
 | IOC Detecttion & Incident Resposne(Splunk)    | <a href ="https://github.com/Pentaksecurity/SOC-Home-Lab-SPLUNK-/blob/main/README.md"> SOC Home Lab Splunk</a>|
 | Configuring IDS & Writing Rules/Managing Alerts| <a href ="https://github.com/Pentaksecurity/Suricata-Windows-HomeLab/blob/main/README.md"> Suricata IDS Windows HomeLab
 | AWS IAM CLI                                   | <a href ="https://github.com/Pentaksecurity/AWS-IAM-CLI-PROJECT"> AWS IAM CLI PROJECT</a>|
+
+
+## Core Technical Skills
+
+|                                               |                            |
+|-----------------------------------------------|----------------------------|
+|Security Operations:                           | Incident Detection & Response, Threat Hunting, IOC Analysis, Escalation, Reporting |
+|EDR & SIEM Tools:                              | Splunk, Suricata, Snort, Wireshark, Qualys, OpenVAS, VirusTotal, AV/EDR platforms Cybersecurity Domains: IAM, Vulnerability Management, Malware Analysis, Phishing Defense, DR/BCP |
+|Systems & Networking:                          | Windows Server, Active Directory, Linux (Ubuntu/Kali), TCP/IP, DNS, DHCP, VPNs, Firewalls, IDS/IPS |
+|Automation & Scripting:                        | Python, PowerShell, Bash – log parsing, anomaly detection, security automation Frameworks & Compliance: MITRE ATT&CK;, OWASP Top 10, NIST CSF, ISO 27001, PCI DSS, HIPAA, SOC2, GDPR |
+
+
+
 ## Tools
 | Nmap
 | BurpSuite
@@ -31,8 +44,6 @@ Cybersecurity professional with hands-on experience in SOC operations, endpoint 
 | Kali Linux
 | Hydra
 | John The Ripper
-| XSS
-| RCE
 
 ## Certifications
 
