@@ -3,10 +3,9 @@
 <a href="https://www.linkedin.com/in/khattarv/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am currently a student at WGU pursuing my Bachelors Degree in Cybersecurity and Information Assurance 
-## Objective
+# Summary
+Cybersecurity professional with hands-on experience in SOC operations, endpoint detection/response (EDR), vulnerability management, and threat analysis. Skilled in log monitoring, malware investigations, SIEM correlation, phishing analysis, and access management across Windows/Linux/Active Directory environments. Strong background in disaster recovery, IAM hardening, and security automation with Python/PowerShell. Certified in CompTIA Security+, Network+, A+, Google Cybersecurity, AWS Security IAM, and ITIL 4, SSCP. Ranked Top 1% globally on TryHackMe. Currently pursuing a B.S. in Cybersecurity Systems.
 
-My journey in cybersecurity has led me to develop a passion for offensive and defensive security, I am really passionate about Penetration Testing and Defensive Security, as well as GRC Security Advisor and Internal Auditing and I am an avid participant in CTF Challenges. I am now eager to break into the industry, specifically aiming to join a Red Team or a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
